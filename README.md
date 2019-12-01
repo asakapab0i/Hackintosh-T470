@@ -1,5 +1,5 @@
 # Hackintosh-T470
-My own journey to MacOS
+My own journey to MacOS (Hackintosh) 
 
 This setup was derived from this repository. 
 https://github.com/notthebee/t440p-hackintosh
