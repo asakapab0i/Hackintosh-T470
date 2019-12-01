@@ -8,5 +8,6 @@ There are few things to be done in this setup.
 - Webcam
 - Saving brightness settings on nvram.plist
 - Broadcom WLan upgrade
+- Intel SSD is not being detected
 
 Credits to RehabMan and the rest of Hackintosh community especially tmx.
